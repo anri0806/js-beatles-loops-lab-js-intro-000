@@ -9,9 +9,9 @@ function theBeatlesPlay(musicians, instruments) {
 }
 
 function johnLennonFacts(facts) {
-return Math.random() >= 0.5;
+ return Math.random() >= 0.5;
   while (johnLennonFacts()) {
     facts.push("!!!")
   }
-return facts
+ return facts
 }
